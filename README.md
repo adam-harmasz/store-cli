@@ -1,2 +1,2 @@
 # store-cli
-Repository for learning puposes
+Repository for learning purposes
